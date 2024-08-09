@@ -51,14 +51,19 @@
 * HIMSS - https://jobmine.himss.org/
 * Intermountain Health - https://intermountainhealthcare.org/careers
 * Lifepoint Health - https://lifepointhealth.net/career-opportunities
-* State of Utah - https://www.governmentjobs.com/careers/utah
 * University of Utah - https://employment.utah.edu/
 * US Department of Veterans Affairs (VA) - https://www.va.gov/jobs/
-* Utah Department of Workforce Services - https://jobs.utah.gov/jobseeker/
+
+
+### University of Utah Resources
+
+* University of Utah Career Center Handshake https://utah.joinhandshake.com/stu
 
 ### Other Links
 
+* State of Utah - https://www.governmentjobs.com/careers/utah
 * Utah Hospital Association Members - https://www.utahhospitals.org/member-hospitals
+* Utah Department of Workforce Services - https://jobs.utah.gov/jobseeker/
 
 ## Professional Practice Areas
 
