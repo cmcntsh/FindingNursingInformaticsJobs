@@ -57,6 +57,7 @@
 
 ### University of Utah Resources
 
+* University of Utah Career Center https://careers.utah.edu/
 * University of Utah Career Center Handshake https://utah.joinhandshake.com/stu
 
 ### Other Links
