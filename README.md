@@ -103,6 +103,13 @@
     * Ambulatory Care
     * Academic Setting
     * Ancillary Healthcare Provider
+
+### Reddit
+
+* r/clinicalinformatics - https://www.reddit.com/r/clinicalinformatics/
+* r/healthIT - https://www.reddit.com/r/healthIT/
+* r/HealthInformatics - https://www.reddit.com/r/HealthInformatics/
+* r/NursingInformatics - https://www.reddit.com/r/nursinginformatics/
    
 ### O*NET OnLine
 
