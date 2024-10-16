@@ -26,7 +26,7 @@
 ### Healthcare Organization Job Sites
 
 * AHIMA - https://careerassist.ahima.org/
-* American Medical Informatics Association - https://jobs.amia.org/home/index.cfm?site_id=15065
+* American Medical Informatics Association - https://jobs.amia.org/jobs/
 * American Nursing Informatics Association - https://jobs.ania.org/
 * Common Spirit (Holy Cross Hospitals) - https://www.mountain.commonspirit.org/Careers
 * HCA Healthcare (MountainStar) - https://careers.hcahealthcare.com/
