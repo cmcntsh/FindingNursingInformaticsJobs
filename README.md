@@ -41,6 +41,7 @@
 
 * University of Utah Career Center https://careers.utah.edu/
 * University of Utah Career Center Handshake https://utah.joinhandshake.com/stu
+* Upcoming U Career Success Workshops posted on Handshake https://utah.joinhandshake.com/stu/events?collection=ALL&categories=3&eventFormat=HYBRID&sort=RELEVANCE&date=ALL&careerCenterIds=675
 
 ### Other Links
 
