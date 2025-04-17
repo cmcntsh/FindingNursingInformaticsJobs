@@ -121,3 +121,14 @@
 * Project Management Specialist https://www.onetonline.org/link/summary/13-1082.00
 * Clinical Data Managers https://www.onetonline.org/link/summary/15-2051.02
   * Sample of reported job titles: Clinical Data Management Director (CDM Director), Clinical Data Management Manager (CDM Manager), Clinical Data Manager, Clinical Informatics Manager, Data Deliverables Manager, Data Management Manager
+ 
+## Useful prompts
+
+Break down any job posting (from Superhuman newsletter 04/17/2025 https://www.superhuman.ai/p/openai-unveils-o3-and-o4-mini?_bhlid=825b87266cb7488217d4e4fd192e949598b98e30&utm_campaign=openai-unveils-o3-and-o4-mini&utm_medium=newsletter&utm_source=superhuman):
+
+```
+Prompt: Act as a seasoned hiring manager in [insert industry or role]. Analyze the following job description and identify the top 3 skills or traits the employer values most, even if they’re not explicitly stated. 
+Tell me what kind of problems this role is likely responsible for solving and how I can tailor my resume and cover letter to align with those priorities. Highlight which keywords I should include to pass ATS filters and suggest the types of interview questions I might be asked based on the description. Also, share what qualities or signals would help me stand out from other applicants. Finally, craft one strong sentence I can include in my cover letter or outreach email that shows I clearly understand what they’re looking for. 
+Here’s the job description: [paste job description].
+
+```
