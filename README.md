@@ -132,3 +132,74 @@ Tell me what kind of problems this role is likely responsible for solving and ho
 Here’s the job description: [paste job description].
 
 ```
+
+Prompt: Keep your resume ATS-friendly (from newsletter Superhuman AI 04/03/2024)
+
+```
+Prompt: Review and edit my current resume, focusing on enhancing the clarity and impact of my experience in [Industry/Field]. Strengthen the language to better showcase my achievements, particularly in [Specific Roles or Projects], and ensure the layout is ATS-friendly. Adjust the skills section better to reflect the requirements of [Job Title].
+```
+
+Prompt: Modify my resume to match the job description (from newsletter The Automated 02/29/2024)
+
+```
+I’ll provide you with the job description of the industry I’m targeting, as well as my current resume. Your task is to tailor my resume to the job by highlighting my relevant skills and experiences. Here is all the relevant information: <details on the job description, industry, and your current resume>.
+```
+
+Prompt: Company research (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I have an interview with [company] for the position of [job position]. Analyze the company’s website [website link] and give me a summary of the work they do.
+```
+
+Prompt: Generate a Cover Letter (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+[Insert job description] Write a cover letter for the role of [insert role] at [insert company], highlighting my experience with respect to the most important qualifications in the job description. Mention how my contributions at [insert previous company] will be a great addition to the [insert company].
+```
+Prompt: Revise a cover letter (from newsletter The Automated sent on 03/05/2024)
+
+```
+Please provide me with some guidance on how to structure my cover letter to make it stand out and grab the reader’s attention. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”. The reader is <details about the reader>.
+```
+
+Prompt: Add keywords and phrases from a job description to a cover letter (from newsletter The Automated sent 03/08/2024)
+
+```
+Please suggest ways to incorporate keywords and phrases from the job description I’m targeting into my cover letter to improve my chances of getting hired. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”
+```
+
+Prompt: Get feedback on a cover letter (from newsletter Tha Automated sent 03/11/2024)
+
+```
+Please provide feedback on my cover letter for <specific job/position/industry>. I’ll provide you with my cover letter and the job description I’m targeting. Your task is to review the language, tone, and overall effectiveness of my cover letter and provide suggestions for improvement. Also, please give me tips on how to showcase better my skills and experiences, as well as how to convey my enthusiasm and passion for the role and the company. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”.
+```
+
+Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I am interviewing for the role of [insert role]. Give me a list of the most common questions asked in the interview for this role.
+```
+
+Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
+
+```
+Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
+```
+
+Prompt: Introduction Email (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+Write an introduction about myself in less than 150 words focusing on my experiences in [insert job field] for the [insert job title] at [insert company].
+```
+
+Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
+```
+
+Prompt: Elevator pitch - You can adapt the prompt to your needs. For example, you can upload your resume/CV or a cover letter to help the model better understand your experience. You can also suggest two or three items you want highlighted. (from newsletter Superhuman AI sent 04/23/2024)
+
+```
+Prompt: Help me create a 60-second elevator pitch that highlights my key skills and experiences relevant to the job I'm applying for.
+```
