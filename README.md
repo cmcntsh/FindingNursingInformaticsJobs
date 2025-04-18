@@ -133,6 +133,26 @@ Here’s the job description: [paste job description].
 
 ```
 
+Prompt: Company research (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I have an interview with [company] for the position of [job position]. Analyze the company’s website [website link] and give me a summary of the work they do.
+```
+
+Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
+```
+
+Prompt: Elevator pitch - You can adapt the prompt to your needs. For example, you can upload your resume/CV or a cover letter to help the model better understand your experience. You can also suggest two or three items you want highlighted. (from newsletter Superhuman AI sent 04/23/2024)
+
+```
+Prompt: Help me create a 60-second elevator pitch that highlights my key skills and experiences relevant to the job I'm applying for.
+```
+
+### Resumes
+
 Prompt: Keep your resume ATS-friendly (from newsletter Superhuman AI 04/03/2024)
 
 ```
@@ -145,11 +165,9 @@ Prompt: Modify my resume to match the job description (from newsletter The Autom
 I’ll provide you with the job description of the industry I’m targeting, as well as my current resume. Your task is to tailor my resume to the job by highlighting my relevant skills and experiences. Here is all the relevant information: <details on the job description, industry, and your current resume>.
 ```
 
-Prompt: Company research (from newsletter Superhuman AI sent 03/04/2024)
 
-```
-I have an interview with [company] for the position of [job position]. Analyze the company’s website [website link] and give me a summary of the work they do.
-```
+
+### Cover Letters
 
 Prompt: Generate a Cover Letter (from newsletter Superhuman AI sent 03/04/2024)
 
@@ -174,32 +192,32 @@ Prompt: Get feedback on a cover letter (from newsletter Tha Automated sent 03/11
 Please provide feedback on my cover letter for <specific job/position/industry>. I’ll provide you with my cover letter and the job description I’m targeting. Your task is to review the language, tone, and overall effectiveness of my cover letter and provide suggestions for improvement. Also, please give me tips on how to showcase better my skills and experiences, as well as how to convey my enthusiasm and passion for the role and the company. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”.
 ```
 
-Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
-
-```
-I am interviewing for the role of [insert role]. Give me a list of the most common questions asked in the interview for this role.
-```
-
-Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
-
-```
-Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
-```
-
 Prompt: Introduction Email (from newsletter Superhuman AI sent 03/04/2024)
 
 ```
 Write an introduction about myself in less than 150 words focusing on my experiences in [insert job field] for the [insert job title] at [insert company].
 ```
 
-Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
+
+
+
+### Interview Preparation
+
+Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
 
 ```
-I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
+I am interviewing for the role of [insert role]. Give me a list of the most common questions asked in the interview for this role.
 ```
 
-Prompt: Elevator pitch - You can adapt the prompt to your needs. For example, you can upload your resume/CV or a cover letter to help the model better understand your experience. You can also suggest two or three items you want highlighted. (from newsletter Superhuman AI sent 04/23/2024)
+
+Prompt: Prepare for interviews (from Superhuman newsletter 04/18/2025 https://www.superhuman.ai/p/o3-sparks-agi-debate?_bhlid=2715ce5bada6735f4b0d7eb291af518204f14444&utm_campaign=o3-sparks-agi-debate&utm_medium=newsletter&utm_source=superhuman)
 
 ```
-Prompt: Help me create a 60-second elevator pitch that highlights my key skills and experiences relevant to the job I'm applying for.
+Prompt: Act as a senior hiring manager in [insert industry or role — e.g., software engineering, marketing, finance] and help me prepare for an upcoming interview for a [insert job title] position. Ask me 8–10 realistic and challenging interview questions based on the job title, including both technical and behavioral ones. After each question, evaluate my answer for clarity, structure, and impact — and suggest improvements if needed. Also, give me tips on how to improve my delivery, body language, and confidence. Based on the job role, share common red flags candidates often trigger and how I can avoid them. Finally, provide one polished, high-impact version of my answer to the “Tell me about yourself” question that ties my background directly to the role I’m applying for.
+```
+
+Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
+
+```
+Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
 ```
