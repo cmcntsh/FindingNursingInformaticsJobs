@@ -22,6 +22,7 @@
 * SimplyHired - https://www.simplyhired.com/
 * USAJobs - https://www.usajobs.gov/
 * ZipRecruiter - https://www.ziprecruiter.com/
+* Google search for "healthcare IT staffing agencies"
 
 ### Healthcare Organization Job Sites
 
