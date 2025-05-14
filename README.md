@@ -222,3 +222,14 @@ Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
 ```
 Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
 ```
+
+
+
+### Social Media Optimization
+
+Prompt: LinkedIn Profile Optimizer (from newsletter Superhuman AI sent 05/14/2025 https://www.superhuman.ai/p/t?_bhlid=0b10646a5902b85a99add066f7ebd08654201c46&utm_campaign=tiktok-gets-video-gen&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as a LinkedIn personal branding expert and career strategist. Help me optimize my LinkedIn profile to attract the right opportunities — whether it’s clients, recruiters, collaborators, or thought leadership visibility. 
+Review and enhance each section: headline, about section, experience, featured content, and skills. Make the headline scroll-stopping with a mix of what I do, who I help, and what makes me different. Rewrite the ‘About’ section to sound like a compelling story, using a confident but approachable tone — highlight key achievements, values, and the impact of my work, not just roles. Suggest how to reframe my work experience using quantifiable results and action verbs. Recommend what kind of media to feature (e.g., posts, articles, links) to boost credibility. Include tips for profile SEO (keywords recruiters search), and suggest 2–3 things I can post weekly to stay top of mind. End with one thought-provoking tagline or summary sentence that I can pin or reuse across platforms.
+```
