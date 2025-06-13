@@ -223,7 +223,27 @@ Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
 Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
 ```
 
+Prompt: Prepare questions to ask the interviewer (from newsletter Superhuman AI sent 06/13/2025 https://www.superhuman.ai/p/ai-chip-race-speeds-up?_bhlid=1aac0f2f902f625cab2b3323086c649002b5adc9&utm_campaign=ai-chip-race-speeds-up&utm_medium=newsletter&utm_source=superhuman)
 
+```
+Prompt: Act as a career coach and interview strategist. I’m preparing for an interview for the role of {insert job title} at {company name}. Draft a list of insightful questions I can ask the interviewer that demonstrate deep interest in the role and alignment with {company’s mission or values}.
+
+Ensure the questions cover:
+
+Role clarity & performance metrics (e.g., how success is measured)
+
+Growth opportunities & learning paths
+
+Team dynamics & collaboration style
+
+Company culture & leadership expectations
+
+Strategic direction of the team or department
+
+Include a mix of practical and reflective questions. Prioritize clarity, curiosity, and cultural fit. 
+Bonus: suggest 1 question that helps me stand out as a thoughtful, strategic candidate.
+
+```
 
 ### Social Media Optimization
 
