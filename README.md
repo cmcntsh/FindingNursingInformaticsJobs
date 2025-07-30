@@ -166,7 +166,28 @@ Prompt: Modify my resume to match the job description (from newsletter The Autom
 I’ll provide you with the job description of the industry I’m targeting, as well as my current resume. Your task is to tailor my resume to the job by highlighting my relevant skills and experiences. Here is all the relevant information: <details on the job description, industry, and your current resume>.
 ```
 
+Resume optimization (from newsleter Superhuman AI sent 07/30/2025 https://www.superhuman.ai/p/chatgpt-launches-study-mode-for-students?_bhlid=c85016c1fefb1178c91f4cd65bd09bec28bacf38&utm_campaign=chatgpt-launches-study-mode-for-students&utm_medium=newsletter&utm_source=superhuman)
 
+```
+Prompt: [RESUME]=Your current resume content
+
+[JOB_DESCRIPTION]=The job description of the position you're applying for
+
+Step 1: Analyze the following job description and list the key skills, experiences, and qualifications required for the role in bullet points.
+
+Job Description:[JOB_DESCRIPTION]
+
+Step 2: Review the following resume and list the skills, experiences, and qualifications it currently highlights in bullet points.
+
+Resume:[RESUME]
+
+Step 3: Compare the lists from Step 1 and Step 2. Identify gaps where the resume does not address the job requirements. Suggest specific additions or modifications to better align the resume with the job description.
+
+Step 4: Using the suggestions from Step 3, rewrite the resume to create an updated version tailored to the job description. Ensure the updated resume emphasizes the relevant skills, experiences, and qualifications required for the role.
+
+Step 5: Review the updated resume for clarity, conciseness, and impact. Provide any final recommendations for improvement.
+
+```
 
 ### Cover Letters
 
