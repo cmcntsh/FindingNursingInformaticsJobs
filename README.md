@@ -17,6 +17,7 @@
 * HealthCareITToday - https://www.healthcareittoday.com/category/topic/career-and-jobs/
 * Indeed - https://www.indeed.com/
 * LinkedIn - https://www.linkedin.com/jobs/
+  * You can create an alert for specific types of jobs
 * Monster - https://www.monster.com/
 * PracticeLink - https://www.practicelink.com/
 * SimplyHired - https://www.simplyhired.com/
