@@ -155,6 +155,49 @@ Prompt: Help me create a 60-second elevator pitch that highlights my key skills 
 
 ### Resumes
 
+Prompt: ATS-Optimized CV Builder (from SuperHuman newsletter sent 08/27/2025 https://www.superhuman.ai/p/google-drops-nano-banana-image-editor?utm_source=superhuman&utm_medium=newsletter&utm_campaign=google-drops-nano-banana-image-editor&_bhlid=d05d3f714c20e4b8d1d2920dc36b00a702b317e6)
+
+```
+Prompt: Act as a senior CV writer, ex–in-house recruiter, and ATS specialist.
+
+OBJECTIVE
+
+Create a targeted, ATS-safe CV for the role below using the user’s LinkedIn as the primary source. If a CV PDF is uploaded in this chat, parse it and prefer its facts (titles/dates/credentials). Do not request a placeholder CV.
+
+INPUTS (paste inside the angle brackets)
+
+LINKEDIN_PROFILE = <<PASTE YOUR LINKEDIN PROFILE TEXT HERE>>
+JOB_DESCRIPTION = <<PASTE THE TARGET JOB DESCRIPTION HERE>>
+
+CONSTRAINTS
+
+Single-column, ATS-friendly text (no tables/columns/images/symbols).
+
+Truthful only; no fabrication. If unknown, use [MISSING: …] or metric prompts like [add %/$/#].
+
+Mirror region/spelling and CV vs résumé conventions implied by the JOB_DESCRIPTION.
+
+Omit sensitive personal details not needed by ATS.
+
+PROCESS
+
+Parse: Extract headline, summary, roles (company/title/dates/location/bullets), projects, skills, education, certs, languages. If a CV PDF exists, reconcile conflicts by preferring the PDF; flag discrepancies in notes.
+
+Targeting: Derive 12–20 must-have keywords/phrases from the JOB_DESCRIPTION; map each to evidence from the profile (role/project/cert). Mark true gaps as [MISSING: …].
+
+Write the CV:
+
+Professional Summary (3–4 lines) aligned to the JOB_DESCRIPTION, naturally weaving top keywords.
+
+Core Skills/Technologies (clustered categories).
+
+Experience (last ~10 years in detail): 3–5 bullets per role using Action → Context → Metric → Outcome; present tense for current role, past tense otherwise. Add metric prompts if needed.
+
+Optional Projects (only if tightly aligned), then Education and Certifications relevant to the JOB_DESCRIPTION.
+
+Optimize & Check: Tense consistency, date continuity, keyword coverage, no fluff/duplicates, consistent number formatting, region-appropriate spelling, minimal links.
+```
+
 Prompt: Keep your resume ATS-friendly (from newsletter Superhuman AI 04/03/2024)
 
 ```
