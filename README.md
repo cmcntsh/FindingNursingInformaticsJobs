@@ -2,7 +2,7 @@
 
 ## Key Words - Search Terms
 
-* analyst, analytics, clinical, CNIO, data, database, health informatics, implementation, informatician, informaticist, informatics, interoperability, integration, mobile, project management, quality, specialist, standards, systems analyst, telehealth
+* analyst, analytics, clinical, CNIO, data, database, health informatics, implementation, informatician, informaticist, informatics, interoperability, integration, mobile, project management, quality, specialist, standards, systems analyst, telehealth, digital health, artificial intelligence, human factors, design thinking, human-centered design, systems thinking, data science.
 * Also see job titles and relevant descriptions throughout the rest of the page.
 
 ## Job Listings
