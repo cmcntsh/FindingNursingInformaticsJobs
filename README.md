@@ -155,6 +155,44 @@ Prompt: Help me create a 60-second elevator pitch that highlights my key skills 
 
 ### Resumes
 
+#### Resume Prompts
+
+From SuperHuman newsletter sent 11/19/2025 https://www.superhuman.ai/p/gemini-3-helps-bring-any-idea-to-life?utm_source=superhuman&utm_medium=newsletter&utm_campaign=gemini-3-helps-bring-any-idea-to-life&_bhlid=29620b55026a993842cc7bfc3b3e457f36d143b0
+
+Prompt #1: concise and engaging
+
+```
+I’m applying for a [Job Title] position in [Industry], and I want my resume summary to stand out. Please rewrite this professional summary to make it more concise, engaging, and aligned with the expectations for this role. It should reflect my strengths, relevant skills, and years of experience in a compelling way.
+```
+
+Prompt #2: measurable accomplishments
+
+```
+Here are the bullet points for one of my past roles. Please rework them to focus on measurable accomplishments rather than generic responsibilities. Make them results-oriented, use strong action verbs, and include numbers or metrics wherever possible.
+```
+
+Prompt #3: pass ATS filters
+
+```
+I want my resume to pass ATS filters and still read well to human recruiters. Based on this job description [paste job description], can you help me optimize my resume content to include relevant keywords and phrases from the posting in a natural way?
+```
+
+Prompt #4: career transition
+
+```
+I’m transitioning into a new career from [Previous Field] to [New Field]. Please help me rewrite my resume summary and key achievements so they highlight transferable skills and make a strong case for why I’m a great fit, even without direct experience.
+```
+
+Prompt #5: vague, wordy, lack of impact review
+
+```
+Prompt 5: Can you audit this entire resume and point out areas where I’m being too vague, too wordy, or not showing enough impact? I want your feedback on tone, structure, and how I can better emphasize leadership, results, or innovation.
+```
+
+
+
+**END SUBSECTION**
+
 Prompt: ATS-Optimized CV Builder (from SuperHuman newsletter sent 08/27/2025 https://www.superhuman.ai/p/google-drops-nano-banana-image-editor?utm_source=superhuman&utm_medium=newsletter&utm_campaign=google-drops-nano-banana-image-editor&_bhlid=d05d3f714c20e4b8d1d2920dc36b00a702b317e6)
 
 ```
