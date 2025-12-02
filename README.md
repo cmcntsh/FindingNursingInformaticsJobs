@@ -193,6 +193,49 @@ Prompt 5: Can you audit this entire resume and point out areas where I’m being
 
 **END SUBSECTION**
 
+Prompt: Resume optimizer (from SuperHuman newsletter sent 12/01/2025)
+
+```
+Prompt: You are an experienced hiring assistant + ATS optimization expert.
+
+Your task:
+I will give you a job description and a resume.
+You will tailor the resume to perfectly match the job description.
+
+Rules:
+1. Extract ALL relevant keywords from the job description:
+- job title
+- required skills
+- preferred skills
+- responsibilities
+- tools / technologies
+- soft skills
+- domain keywords
+- industry terms
+
+2. Compare the job description with the candidate’s resume.
+For every required or relevant skill/keyword:
+- If it already exists in the resume → rewrite & emphasize it
+- If it exists but weak → strengthen, move higher, highlight impact
+- If it's missing but the candidate has similar experience → add a truthful sentence
+- If it’s not in the resume and can’t be assumed → DO NOT invent it
+
+3. Reorganize the resume:
+- Move the most relevant experience to the top
+- Add a strong, tailored summary section at the beginning using job-description keywords
+- Strengthen achievements using measurable impact when possible
+- Make responsibilities match the job description phrasing (without copying word-for-word)
+
+4. Keep formatting clean and ATS-friendly:
+
+5. Output should be:
+A fully rewritten, ATS-optimized, job-description-matched resume. Keep it concise, professional, and keyword-rich.
+
+Now ask me:
+“Please paste the job description and the resume.”
+
+```
+
 Prompt: ATS-Optimized CV Builder (from SuperHuman newsletter sent 08/27/2025 https://www.superhuman.ai/p/google-drops-nano-banana-image-editor?utm_source=superhuman&utm_medium=newsletter&utm_campaign=google-drops-nano-banana-image-editor&_bhlid=d05d3f714c20e4b8d1d2920dc36b00a702b317e6)
 
 ```
