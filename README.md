@@ -425,3 +425,20 @@ Prompt: LinkedIn Profile Optimizer (from newsletter Superhuman AI sent 05/14/202
 Prompt: Act as a LinkedIn personal branding expert and career strategist. Help me optimize my LinkedIn profile to attract the right opportunities — whether it’s clients, recruiters, collaborators, or thought leadership visibility. 
 Review and enhance each section: headline, about section, experience, featured content, and skills. Make the headline scroll-stopping with a mix of what I do, who I help, and what makes me different. Rewrite the ‘About’ section to sound like a compelling story, using a confident but approachable tone — highlight key achievements, values, and the impact of my work, not just roles. Suggest how to reframe my work experience using quantifiable results and action verbs. Recommend what kind of media to feature (e.g., posts, articles, links) to boost credibility. Include tips for profile SEO (keywords recruiters search), and suggest 2–3 things I can post weekly to stay top of mind. End with one thought-provoking tagline or summary sentence that I can pin or reuse across platforms.
 ```
+
+### Professional Photo (Headshot)
+
+Prompt: Professional headshot from photo on Google Gemini (From SuperHuman newsletter sent 01/14/2026)
+
+* Upload a reference image for style, lighting, mood
+* Upload a clear, well-lit photo of yourself
+
+```
+Create a professional corporate headshot using my uploaded photo. Match the overall style, lighting, and aesthetic of the reference image while keeping my facial features, proportions, and identity exactly the same. Dress the subject in [describe your outfit or desired attire]. The final image should look suitable for LinkedIn and professional websites.
+```
+
+or
+
+```
+Generate a clean, professional headshot from my uploaded image while preserving my exact facial features and natural skin detail. Frame the portrait from the chest up with proper headroom. The subject should face the camera directly with a confident, natural expression. Style the subject in a modern professional [attire]. Use a soft neutral studio background in deep charcoal grey (#2A2A2A). Apply gentle, diffused studio lighting with sharp focus on the eyes, natural tones, subtle background blur, and a polished, modern finish.
+```
