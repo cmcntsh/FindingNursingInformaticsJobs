@@ -19,6 +19,7 @@
 * LinkedIn - https://www.linkedin.com/jobs/
   * You can create an alert for specific types of jobs
   * LinkedIn - Jobs - [Search for job title or skills using the search field at the top.] - toggle the Alert on button to turn on job alerts
+  * Video demo https://www.youtube.com/watch?v=XtSDdhNJfP0&t=1s
 * Monster - https://www.monster.com/
 * PracticeLink - https://www.practicelink.com/
 * SimplyHired - https://www.simplyhired.com/
