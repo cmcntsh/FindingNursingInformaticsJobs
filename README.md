@@ -126,6 +126,10 @@
 * Clinical Data Managers https://www.onetonline.org/link/summary/15-2051.02
   * Sample of reported job titles: Clinical Data Management Director (CDM Director), Clinical Data Management Manager (CDM Manager), Clinical Data Manager, Clinical Informatics Manager, Data Deliverables Manager, Data Management Manager
  
+### Resume Advice
+
+* https://www.linkedin.com/news/story/ai-slop-renders-resumes-less-essential-employers-say-7062868/
+ 
 ## Useful prompts
 
 Break down any job posting (from Superhuman newsletter 04/17/2025 https://www.superhuman.ai/p/openai-unveils-o3-and-o4-mini?_bhlid=825b87266cb7488217d4e4fd192e949598b98e30&utm_campaign=openai-unveils-o3-and-o4-mini&utm_medium=newsletter&utm_source=superhuman):
