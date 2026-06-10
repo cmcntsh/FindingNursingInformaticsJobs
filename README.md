@@ -129,6 +129,29 @@
 ### Resume Advice
 
 * https://www.linkedin.com/news/story/ai-slop-renders-resumes-less-essential-employers-say-7062868/
+
+### Compensation Resources
+
+I haven't sorted through these resources yet, but they have come up in the context of compensation in informatics.
+
+* Gallagher https://www.ajg.com/services/compensation-survey-reports/
+* AMIA Physician Compensation & Career Survey
+* AMDIS Compensation Surveys
+* AMDIS/WittKieffer Physician Executive Surveys
+* SullivanCotter Physician Executive Compensation Survey
+* ECG Management Consultants Surveys
+* Vizient Leadership Benchmarking
+* WittKieffer Physician IT Leadership Reports
+* CHIME Surveys
+* Academic Medicine AAMC Benchmarks
+* Clinical Informatics Medical Director 0.1–0.5 administrative FTE plus clinical salary
+* Physician Informatics Director Salary support based on protected time (20–80%)
+* Associate CMIO Partial administrative role with clinical practice
+* CMIO Full executive salary or hybrid executive/clinical model
+* Chief Medical Informatics & AI Officer Executive compensation plus incentive plan tied to strategic goals
+* Project-based Physician Informaticist Hourly rate or stipend
+* Epic Physician Builder Stipend or hourly compensation
+* Physician Champion Fixed stipend or FTE allocation
  
 ## Useful prompts
 
